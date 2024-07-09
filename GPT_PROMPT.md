@@ -1,6 +1,6 @@
 # GPT Prompt
 
-Come up with entertaining quiz content for topic: **[YOUR_TOPIC]**.
+Come up with entertaining quiz content for topic: **[ECONOMICS]**.
 
 It is highly important to follow these rules during quiz creation:
 - No more than 60 symbols for the description.
@@ -12,21 +12,21 @@ Required structure of the quiz.
 
 ```json
 {
-  "shortDescription": "Test your knowledge of computer science with this quiz.",
+  "shortDescription": "Test your knowledge of Economics with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "What is the financial gain made in transactions?",
+      "answers": ["Resource", "Profit", "Scarcity"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "The payment made by an employer to an employee is called _____.?",
+      "answers": ["Wage", "Interest", "Profit"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "What are two goods that are bought and used together?",
+      "answers": ["Market system", "Efficiency", "Complimentary goods"],
       "correctAnswerIndex": 0
     }
   ]
