@@ -26,7 +26,7 @@ Required structure of the quiz.
     },
     {
       "question": "What are two goods that are bought and used together?",
-      "answers": ["Market system", "Efficiency", "Complimentary goods"],
+      "answers": ["Market system", "Efficiency", "Complementary goods"],
       "correctAnswerIndex": 0
     }
   ]
